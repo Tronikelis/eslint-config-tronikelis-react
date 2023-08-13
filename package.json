@@ -1,0 +1,19 @@
+{
+    "name": "eslint-config-tronikelis-react",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Tronikelis",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tronikelis/eslint-config-tronikelis-react.git"
+    },
+    "dependencies": {
+        "eslint-config-tronikelis": "2.0.0",
+        "eslint-plugin-react": "7.33.1",
+        "eslint-plugin-react-hooks": "4.6.0"
+    },
+    "peerDependencies": {
+        "eslint": "*",
+        "prettier": "*"
+    }
+}
